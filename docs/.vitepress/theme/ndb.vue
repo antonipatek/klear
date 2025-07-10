@@ -28,7 +28,7 @@ const dismiss = () => {
 <template>
   <div rel="el" class="banner">
     <div class="text">
-      ⚠️ guide.<bold class="font-bold">yuuire.com</bold> is temporarily moving to
+      ⚠️ guide.<bold class="font-bold">yuuire.com</bold> is moving to
       <a class="underline" href="https://klearprivacy.vercel.app/">klearprivacy.vercel.app</a>. Bookmark & share!!! ⚠️
     </div>
   </div>
