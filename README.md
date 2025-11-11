@@ -23,6 +23,9 @@ A Complete Guide To Privacy, Security & Anonymity
 
 <h4 style="margin-top: 5px;" align="center">Consider giving the repository a ⭐ star. Your support motivates us to improve the guide!</h4>
 
+> [!NOTE]
+> Our old repository was falsely hit with a DMCA takedown.
+
 # Why should I care? 
 
 These days, everything you do is monitored. You might think that since it's so obvious, we shouldn't worry about it. Don't be so sure. Most large organizations owe their fortunes to selling your data. That's why it's so important to become independent of these tech giants. Everything they collect can affect us negatively now or in the future. Privacy is a human right that is no longer respected, and now it's up to us to get as close as we can to that ideal.
